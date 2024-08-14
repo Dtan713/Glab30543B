@@ -1,4 +1,4 @@
-package model;
+package Employee;
 
 import jakarta.persistence.*;
 
